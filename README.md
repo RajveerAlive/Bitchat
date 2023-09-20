@@ -1,37 +1,3 @@
-<div align="center">
-
-<!-- Title: -->
-  <a href="https://bitchat.rohittewari.live" target="_blank">
-    <img src="https://user-images.githubusercontent.com/75976169/202110105-88e5106c-2c4b-4314-9286-d1aae4541715.png" height="150" alt="Logo with shadow">
-  </a>
-
-  <!-- <a href="https://bitchat.rohittewari.live" target="_blank">
-    <img src="https://user-images.githubusercontent.com/75976169/202110425-565c3278-4e8e-4754-b511-38be8ef23273.png" height="150" alt="Logo without shadow">
-  </a> -->
-
-<!-- Short description: -->
-<h2>Real-time chat application powered by socket.io</h2>
-
-<!-- Labels: -->
-  <div>
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" height="20">
-  <a href="https://bitchat.rohittewari.live" target="_blank">
-    <img src="https://img.shields.io/website-up-down-green-red/https/bitchat.rohittewari.live.svg" height="20" alt="Website up">
-  </a>
-  <img src="https://img.shields.io/github/repo-size/rtewari056/bitchat.svg?label=Repo%20size" height="20" alt="Repo size">
-  <img src="https://img.shields.io/github/languages/top/rtewari056/bitchat" height="20" alt="GitHub top language">
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/rtewari056/bitchat" height="20" alt="MIT License">
-  </a>
-  </div>
-
-</div>
-
-## 🚀 Demo
-
-This application is deployed on DigitalOcean. Please check it out :smile: [here](https://bitchat.rohittewari.live).
-
-![bitchat](https://user-images.githubusercontent.com/75976169/202241510-bb0dc077-11c2-4a22-9443-b241ecfca77c.gif)
 
 ## 🖥️ Tech Stack
 
@@ -54,10 +20,6 @@ This application is deployed on DigitalOcean. Please check it out :smile: [here]
 **Database:**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-**Deployed On:**
-
-[![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://bitchat.rohittewari.live)
 
 ## ⚡️ Features
 
@@ -155,7 +117,7 @@ In order to run the project you need `node>=16` and `npm>=8` installed on your m
 ### 1. Clone the `bitchat` repository:
 
 ```bash
-git clone https://github.com/rtewari056/bitchat.git
+git clone https://github.com/RajveerAlive/Bitchat.git
 ```
 
 ### 2. Navigate into repo:
@@ -193,15 +155,7 @@ npm run server
 
 ## 👤 Developer
 
-[Rohit Tewari](https://github.com/rtewari056)
-
-## 📬 Contact
-
-If you want to contact me, you can reach me through below handles.
-
-<a href="https://linkedin.com/in/rtewari056" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rtewari056@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/rtewari056" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+[Rajveer Singh]
 
 ## 📃 License
 
