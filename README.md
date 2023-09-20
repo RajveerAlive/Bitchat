@@ -1,5 +1,5 @@
 
-## 🖥️ Tech Stack
+## 🖥️ Upgrad Capstone project
 
 **Frontend:**
 
@@ -155,10 +155,4 @@ npm run server
 
 ## 👤 Developer
 
-[Rajveer Singh]
-
-## 📃 License
-
-bitchat is licensed under the <a href="./LICENSE">MIT License</a>.
-
-### Show your support by 🌟 the project
+[Rajveer Singh](@rajveer.thethird@gmail.com)
